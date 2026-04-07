@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "organic-premise-492516-p8",
+  "private_key_id": "6692e972b56580a6fac51a192567dad84661be95",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8fz7wnttsMBXO\ncdakm7ejbzHEh8Hc9re5pKRad3fdM6kpcpWBQZ3RDWDbOtBKCN+0Gu/qRtYZyLOx\nlZhdoSAZVF5Pb2I3m82cblU07jxIUIJCbT+rW9CkhQMXW9UfesIUCom0qeouJzId\nn/8GHdLYx9XNtLwN5fekSLKQ4y2UEERn0JyPCbB9pdZhkl7vsj17j7mba6zYoFVo\nic77NoK6GW+nBLxbfHpZJIXb850Gp4D0C9N78/XokKQwd/hfZNGSi77fH/Yg9egt\nLKKNTUNGapIw4/xw2Ww0kWb5AL63oDdS7FeN1BZAgBFKhx9n64I2cjchEU28rTbv\n2Yng4EDNAgMBAAECggEAJ3UwgPCUCIfhTLOWRaNmE9NvNM9hRMati3IcSGa5Q+fw\nSYGXq7THWy9EfufHGbRVVa+M2LsGzuNtQCeLO1BC9qJrUpADnJXj+tK6yedz3YRi\n3BJf8Vg5KvNABCgAS0Roc4cIL/YglBQ24K4xFX/xNtlQF201r2gcCHsCTCOOEy/f\nCAkypmoM2njIbf/bx2bJdZ64AGdYjyi3jepI8m544RmBOvqo9Jk8ZlQplwVRyyOg\nWLN29EyjxBXxmd/wvhkDOPgP8Ah+aFZ4jk8SYhJAC4qLbmTtiiYYNkkz0ek8Ksie\n4Ggf8nZgtKkck5owwXWDYKi08CMDNEtt0UJc72LvSQKBgQD1KdVTHU2TCXh666Hl\nRWDVDkkHqm7qw9Mc4y/7okaarrcBoGFtdjhuiHDDJao/MIABGEIsKvB74YND0UTZ\nXKS+zF5mv75TphsdV8hY625l39I0iOnqFcC72dSI3R8APL1FSVYdjF3WgFA5wAzF\neMRI6BSf5+5BHGa+RXNcotCEuQKBgQDE1DMic2yuZklXNcwqdwOegcpHKcUK/1dq\nykIT79/1tkaTzfoh6f9S6mH2oblsFa0rkmYs/Jdf6Ghbe0TkpibTmoxKgzeCbvha\nSUuDGX8YtUCoK0aAhswLCHz2Ylyhxme8ZHRdcMfALUe1hyuG5hV1FQUfqu4cuELP\n0P/24SS6tQKBgERsd4hp7kOyafjMmPO3SE5OXV2RWMGXA+3VDohJgzEawCLpEygM\nzbUzyVz9vyVBsQgdMCLJnTLF/u/HkVKlA6nouhQtQb5w5rJq1JTUqIwwSqe06qwV\nhCQpqKLGLCfRy/VxgWJf0bTTPRDRI/9dNFMwysjSX3G2roo+MfNR0aapAoGANA5/\nW6w1YUayPPuAfPavIVvoWLvmXks8HoVRxp4ZmI3Vyr+eWRvfKFnPAQCy3rA49Z4p\nodpIWthHyXInvWVoPWzRj992bevViWN7MjgrEijV6eRQKCv+iSh8jFllcG/d/ch/\nsjriyaPwJEWUsH/nyuh9S2vUwAnHudjn6a6QHUUCgYBxJ9wPusMqL+me9hI0iNUC\nwVpXuiRYDYzasYngV+AZg9rzBXLOXWSQYi5Hs/2Jj8pxpQTrt7jN3KtPH7DaTXCU\nBxXMj1d4z/RkJEBI5KNx84xOoyhfMDEX6Q+uCGwWmm8V8H4dvcZLKgVg2FPzwbvm\nqbiSkZkU5kba5m2FwaO6TA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hacakthon-excel-winner@organic-premise-492516-p8.iam.gserviceaccount.com",
+  "client_id": "110150614043220088194",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hacakthon-excel-winner%40organic-premise-492516-p8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

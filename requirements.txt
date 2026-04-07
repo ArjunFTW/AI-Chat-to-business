@@ -1,0 +1,6 @@
+flask
+twilio
+gspread
+oauth2client
+google-generativeai
+python-dotenv
