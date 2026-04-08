@@ -2,7 +2,7 @@
 
 An intelligent, real-time inventory management system built for WhatsApp. Instead of navigating clunky ERP dashboards, field workers can simply text a WhatsApp bot in natural language (e.g., *"I need 50 bags of cement"*), and the AI automatically parses the request and updates a live Google Sheet database.
 
-Built for [Insert Hackathon Name here].
+Built for College-Hackathon.
 
 ## ✨ Features
 * **Natural Language Processing:** Powered by Google's `gemini-2.5-flash` model to accurately extract intent, item names, and quantities from messy, typo-ridden text messages.
@@ -30,5 +30,5 @@ Built for [Insert Hackathon Name here].
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone [https://github.com/ArjunFTW/AI-Chat-to-business.git](https://github.com/ArjunFTW/AI-Chat-to-business.git)
 cd inventory-bot
